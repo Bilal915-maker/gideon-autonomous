@@ -1,9 +1,1 @@
-{
-  "env": {
-    "ANTHROPIC_API_KEY": "@anthropic_api_key",
-    "GITHUB_TOKEN": "@github_token",
-    "VERCEL_TOKEN": "@vercel_token",
-    "MAKE_WEBHOOK_URL": "@make_webhook_url",
-    "SUPABASE_URL": "@supabase_url"
-  }
-}
+{}
